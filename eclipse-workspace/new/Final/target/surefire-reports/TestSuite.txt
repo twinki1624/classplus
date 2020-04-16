@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: TestSuite
+-------------------------------------------------------------------------------
+Tests run: 3, Failures: 1, Errors: 0, Skipped: 2, Time elapsed: 3.061 s <<< FAILURE! - in TestSuite
+initialize(assignmentmain.testc)  Time elapsed: 2.652 s  <<< FAILURE!
+java.lang.IllegalStateException: The driver executable does not exist: C:\Users\Admin\eclipse-workspace\new\assignmentClassplusqa\user.dir\chromedriver.exe
+	at assignmentmain.testc.initialize(testc.java:26)
+
